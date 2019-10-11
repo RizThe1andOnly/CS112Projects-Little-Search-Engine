@@ -1,0 +1,12 @@
+AliceCh1.txt
+WowCh1.txt
+real.txt
+phil.txt
+essay3.txt
+elf12.txt
+elf8.txt
+elf7.txt
+elf5.txt
+elf3.txt
+elf2.txt
+elf6.txt
