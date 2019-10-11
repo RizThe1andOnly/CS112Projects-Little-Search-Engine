@@ -5,4 +5,6 @@ retrieve words from hashmaps based on criteria such as most used
 
 This was given to me as a skeleton code, my contributions can be found in:
 
-Under the labels /* COMPLETE THIS METHOD */
+src/lse/LittleSearchEngine.java        Under the labels /** COMPLETE THIS METHOD **/
+
+Also i created lsetesting.java and lseapp.java
